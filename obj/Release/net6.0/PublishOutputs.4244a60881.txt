@@ -1,0 +1,5 @@
+/Users/kristofferjonsson/Documents/TreiRad/treiradsnällafunka
+/Users/kristofferjonsson/Documents/TreiRad/treiradsnällafunka.dll
+/Users/kristofferjonsson/Documents/TreiRad/treiradsnällafunka.deps.json
+/Users/kristofferjonsson/Documents/TreiRad/treiradsnällafunka.runtimeconfig.json
+/Users/kristofferjonsson/Documents/TreiRad/treiradsnällafunka.pdb

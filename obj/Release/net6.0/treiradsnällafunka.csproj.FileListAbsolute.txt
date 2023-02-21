@@ -1,0 +1,15 @@
+/Users/kristofferjonsson/Downloads/TicTacToeNyaste-main/TREIRADABSTRACT-main/bin/Release/net6.0/treiradsnällafunka
+/Users/kristofferjonsson/Downloads/TicTacToeNyaste-main/TREIRADABSTRACT-main/bin/Release/net6.0/treiradsnällafunka.deps.json
+/Users/kristofferjonsson/Downloads/TicTacToeNyaste-main/TREIRADABSTRACT-main/bin/Release/net6.0/treiradsnällafunka.runtimeconfig.json
+/Users/kristofferjonsson/Downloads/TicTacToeNyaste-main/TREIRADABSTRACT-main/bin/Release/net6.0/treiradsnällafunka.dll
+/Users/kristofferjonsson/Downloads/TicTacToeNyaste-main/TREIRADABSTRACT-main/bin/Release/net6.0/treiradsnällafunka.pdb
+/Users/kristofferjonsson/Downloads/TicTacToeNyaste-main/TREIRADABSTRACT-main/obj/Release/net6.0/treiradsnällafunka.csproj.AssemblyReference.cache
+/Users/kristofferjonsson/Downloads/TicTacToeNyaste-main/TREIRADABSTRACT-main/obj/Release/net6.0/treiradsnällafunka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristofferjonsson/Downloads/TicTacToeNyaste-main/TREIRADABSTRACT-main/obj/Release/net6.0/treiradsnällafunka.AssemblyInfoInputs.cache
+/Users/kristofferjonsson/Downloads/TicTacToeNyaste-main/TREIRADABSTRACT-main/obj/Release/net6.0/treiradsnällafunka.AssemblyInfo.cs
+/Users/kristofferjonsson/Downloads/TicTacToeNyaste-main/TREIRADABSTRACT-main/obj/Release/net6.0/treiradsnällafunka.csproj.CoreCompileInputs.cache
+/Users/kristofferjonsson/Downloads/TicTacToeNyaste-main/TREIRADABSTRACT-main/obj/Release/net6.0/treiradsnällafunka.dll
+/Users/kristofferjonsson/Downloads/TicTacToeNyaste-main/TREIRADABSTRACT-main/obj/Release/net6.0/refint/treiradsnällafunka.dll
+/Users/kristofferjonsson/Downloads/TicTacToeNyaste-main/TREIRADABSTRACT-main/obj/Release/net6.0/treiradsnällafunka.pdb
+/Users/kristofferjonsson/Downloads/TicTacToeNyaste-main/TREIRADABSTRACT-main/obj/Release/net6.0/treiradsnällafunka.genruntimeconfig.cache
+/Users/kristofferjonsson/Downloads/TicTacToeNyaste-main/TREIRADABSTRACT-main/obj/Release/net6.0/ref/treiradsnällafunka.dll
